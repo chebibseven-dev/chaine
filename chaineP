@@ -97,6 +97,9 @@ https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1 tvg-id="BFMTV.fr",BFM TV (576p)
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
+#EXTINF:-1 tvg-id="ReutersTV.us@SD" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="News",Reuters
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
+
 ###############
 # Francophones
 ###############
@@ -196,4 +199,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd63c3a6f8c220009
 
 #EXTINF:-1 tvg-id="FranceTVJeunesse" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1b/Logo_France_TV.svg" group-title="Jeunesse",France TV Jeunesse
 https://www.francetvinfo.fr/playlist/jeunesse.m3u8
+
+###############
+# Afrique
+###############
+#EXTINF:-1 tvg-id="TeleSahel.ne" tvg-logo="https://i.imgur.com/vboq428.png" group-title="General",Télé Sahel (576p)
+http://69.64.57.208/telesahel/playlist.m3u8
+#EXTINF:-1 tvg-id="RTG.mx" tvg-logo="https://i.imgur.com/k9M2MOT.png" group-title="Undefined",RTG (720p)
+https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
+#EXTINF:-1 tvg-id="RTG1.gn" tvg-logo="https://i.imgur.com/E1sMcXz.png" group-title="General",RTG 1
+http://69.64.57.208/rtg/playlist.m3u8
+#EXTINF:-1 tvg-id="RTGTV.ru" tvg-logo="https://i.imgur.com/ZMKPAho.png" group-title="Travel",RTG TV
+http://194.143.148.28:8080/RTG_HD/index.m3u8
+
+
 
